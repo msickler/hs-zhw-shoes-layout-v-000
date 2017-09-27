@@ -45,6 +45,9 @@ section {
   display:inline-block;
   float:left;
   width: 31.333%;
+}
 
-
+.col-4 {
+  float:left;
+  width: 33.333%;
 }
