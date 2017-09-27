@@ -37,11 +37,11 @@
   margin: 0 0 5px 5px;
 }
 
-.col-3 {
+.clearfix:after {
   content:".";
   display: block;
   clear:both;
   visibility: hidden;
   height: 0;
-  
+
 }
