@@ -23,6 +23,10 @@
 }
 
 /* Posititoning Classes */
+section {
+  padding:10px;
+  margin:1%;
+}
 .col-1 {
 
   float:left;
