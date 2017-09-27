@@ -36,3 +36,12 @@
   width: 20%;
   margin: 0 0 5px 5px;
 }
+
+.col-3 {
+  content:".";
+  display: block;
+  clear:both;
+  visibility: hidden;
+  height: 0;
+  
+}
