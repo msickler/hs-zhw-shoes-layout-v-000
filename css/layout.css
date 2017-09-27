@@ -37,7 +37,7 @@
   margin: 0 0 5px 5px;
 }
 
-.clearfix {
+.clearfix:after {
   content:".";
   display: block;
   clear:both;
