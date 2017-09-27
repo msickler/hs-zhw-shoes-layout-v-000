@@ -24,12 +24,13 @@
 
 /* Posititoning Classes */
 .col-1 {
+  display: block;
   width:60%;
   margin: 0 10px 10px 0;
 }
 
 .col-2 {
+  display: block;
   width: 20%;
   margin: 0 0 10px 10px;
 }
-
